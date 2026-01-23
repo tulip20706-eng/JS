@@ -23,14 +23,14 @@ console.log(removed2)
 console.log(fruits3)//output: 4
 
 //question
-let arr = ["apple","banana","grapes","mango"]
+let arr3 = ["apple","banana","grapes","mango"]
 let reversedArr = []
 while(arr.length>0){
     let removedElement=arr.pop()
     reversedArr.push(removedElement)
 }
 console.log(reversedArr)
-console.log(arr)
+console.log(arr3)
 
 //q1
 let arr=["apple","banana","grapes","mango"]
